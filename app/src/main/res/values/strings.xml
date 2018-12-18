@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SensorsDetect</string>
+    <string name="detect_text">Сделать снимок</string>
+</resources>
